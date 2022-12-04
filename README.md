@@ -57,7 +57,7 @@ Crowdfunding is basically the practice of funding a project or a start-up throug
 ## Authors
 
 - [Bhavya Sura](https://www.github.com/Baboon12)
-- [Manav Rupani](https://www.github.com/)
+- [Manav Rupani](https://www.github.com/ManavStud)
 - [Herschel Menezes](https://www.github.com/TensaCoder)
 
 
