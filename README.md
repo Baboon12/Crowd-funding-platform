@@ -1,4 +1,4 @@
-# Crowd-funding-platform
+# Crowd Funding Platform
 Creates a platform where people can raise money based on crowd funding concept
 
 ## Screenshots
