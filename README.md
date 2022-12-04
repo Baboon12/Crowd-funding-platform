@@ -3,9 +3,9 @@ Creates a platform where people can raise money based on crowd funding concept
 
 ## Screenshots
 
+
 Adding Value
-![Screenshot 1](1.jpeg)
-<img src="https://github.com/Baboon12/Crowd-funding-platform/blob/main/images/1.jpeg" width="128"/>
+![Screenshot 1](https://user-images.githubusercontent.com/53343851/205495920-ac53c71d-d61b-4676-8839-c49c8855fe74.jpeg)
 
 ![Screenshot 2]()
 
